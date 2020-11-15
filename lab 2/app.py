@@ -39,20 +39,21 @@ def main(url=''):
     return True
 
 
-def home_work():
-    # Ваш захист
-    pass
-
-
-def my_good_fun():
-    return "success"
+def home_work(url=''):
+    resp  = requests.get(url=url)
+    date = resp .json()
+    time = date['time'].find("P")
+    if time == -1:
+        print("Добрий день")
+    else:
+        print("Доброї ночі")
+    return True
 
 
 if __name__ == "__main__":
-    a = "=" * 40
+    a = "="*40
     print(a + "\nРезультат без параметрів: ")
     main()
     print(a + "\nРезультат з правильною URL: ")
     main('http://date.jsontest.com/')
-    a = my_good_fun()
-    print(a)
+    home_work('http://date.jsontest.com/')
