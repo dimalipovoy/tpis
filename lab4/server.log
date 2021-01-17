@@ -1,0 +1,51 @@
+INFO 2020-11-26 12:03:22,051 root : Server is available. Server time: 2020-11-26 10:03:22
+INFO 2020-11-26 12:03:22,051 root : Requested page: : http://localhost:8000/health/
+INFO 2020-11-26 12:03:22,051 root : Server response keys:
+INFO 2020-11-26 12:03:22,051 root : Key: date, Value: 2020-11-26 10:03:22
+INFO 2020-11-26 12:03:22,051 root : Key: current_page, Value: http://localhost:8000/health/
+INFO 2020-11-26 12:03:22,051 root : Key: server_info, Value: ['Linux', 'roman', '5.4.0-53-generic', '#59-Ubuntu SMP Wed Oct 26 09:38:44 UTC 2020', 'x86_64']
+INFO 2020-11-26 12:03:22,051 root : Key: client_info, Value: python-requests/2.22.0
+ERROR 2020-11-26 12:04:22,119 root : Server is unavailable :(
+ERROR 2020-11-26 12:06:32,650 root : Server is unavailable :(
+INFO 2020-12-05 20:42:32,731 root : Server is available. Server time: 2020-12-05 20:42:32
+INFO 2020-12-05 20:42:32,731 root : Requested page: : http://localhost:8000/health/
+INFO 2020-12-05 20:42:32,731 root : Server response keys:
+INFO 2020-12-05 20:42:32,731 root : Key: date, Value: 2020-12-05 20:42:32
+INFO 2020-12-05 20:42:32,731 root : Key: current_page, Value: http://localhost:8000/health/
+INFO 2020-12-05 20:42:32,731 root : Key: server_info, Value: ['Linux', '3af805b17e2f', '5.4.0-53-generic', '#59-Ubuntu SMP Wed Oct 26 09:38:44 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:42:32,731 root : Key: client_info, Value: python-requests/2.25.0
+INFO 2020-12-05 20:43:32,791 root : Server is available. Server time: 2020-12-05 20:43:32
+INFO 2020-12-05 20:43:32,791 root : Requested page: : http://localhost:8000/health/
+INFO 2020-12-05 20:43:32,791 root : Server response keys:
+INFO 2020-12-05 20:43:32,791 root : Key: date, Value: 2020-12-05 20:43:32
+INFO 2020-12-05 20:43:32,791 root : Key: current_page, Value: http://localhost:8000/health/
+INFO 2020-12-05 20:43:32,791 root : Key: server_info, Value: ['Linux', '3af805b17e2f', '5.4.0-53-generic', '#59-Ubuntu SMP Wed Oct 26 09:38:44 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:43:32,792 root : Key: client_info, Value: python-requests/2.25.0
+INFO 2020-12-05 20:44:32,855 root : Server is available. Server time: 2020-12-05 20:44:32
+INFO 2020-12-05 20:44:32,855 root : Requested page: : http://localhost:8000/health/
+INFO 2020-12-05 20:44:32,855 root : Server response keys:
+INFO 2020-12-05 20:44:32,855 root : Key: date, Value: 2020-12-05 20:44:32
+INFO 2020-12-05 20:44:32,855 root : Key: current_page, Value: http://localhost:8000/health/
+INFO 2020-12-05 20:44:32,855 root : Key: server_info, Value: ['Linux', '3af805b17e2f', '5.4.0-53-generic', '#59-Ubuntu SMP Wed Oct 26 09:38:44 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:44:32,855 root : Key: client_info, Value: python-requests/2.25.0
+INFO 2020-12-05 20:45:32,919 root : Server is available. Server time: 2020-12-05 20:45:32
+INFO 2020-12-05 20:45:32,919 root : Requested page: : http://localhost:8000/health/
+INFO 2020-12-05 20:45:32,920 root : Server response keys:
+INFO 2020-12-05 20:45:32,920 root : Key: date, Value: 2020-12-05 20:45:32
+INFO 2020-12-05 20:45:32,920 root : Key: current_page, Value: http://localhost:8000/health/
+INFO 2020-12-05 20:45:32,920 root : Key: server_info, Value: ['Linux', '3af805b17e2f', '5.4.0-53-generic', '#59-Ubuntu SMP Wed Oct 26 09:38:44 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:45:32,920 root : Key: client_info, Value: python-requests/2.25.0
+INFO 2020-12-05 20:46:32,988 root : Server is available. Server time: 2020-12-05 20:46:32
+INFO 2020-12-05 20:46:32,988 root : Requested page: : http://localhost:8000/health/
+INFO 2020-12-05 20:46:32,988 root : Server response keys:
+INFO 2020-12-05 20:46:32,988 root : Key: date, Value: 2020-12-05 20:46:32
+INFO 2020-12-05 20:46:32,988 root : Key: current_page, Value: http://localhost:8000/health/
+INFO 2020-12-05 20:46:32,988 root : Key: server_info, Value: ['Linux', '3af805b17e2f', '5.4.0-53-generic', '#59-Ubuntu SMP Wed Oct 26 09:38:44 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:46:32,988 root : Key: client_info, Value: python-requests/2.25.0
+INFO 2020-12-05 20:47:33,023 root : Server is available. Server time: 2020-12-05 20:47:33
+INFO 2020-12-05 20:47:33,023 root : Requested page: : http://localhost:8000/health/
+INFO 2020-12-05 20:47:33,023 root : Server response keys:
+INFO 2020-12-05 20:47:33,023 root : Key: date, Value: 2020-12-05 20:47:33
+INFO 2020-12-05 20:47:33,023 root : Key: current_page, Value: http://localhost:8000/health/
+INFO 2020-12-05 20:47:33,024 root : Key: server_info, Value: ['Linux', '3af805b17e2f', '5.4.0-53-generic', '#59-Ubuntu SMP Wed Oct 21 09:38:44 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:47:33,024 root : Key: client_info, Value: python-requests/2.25.0
